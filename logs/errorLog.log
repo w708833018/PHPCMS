@@ -1,0 +1,35 @@
+[Sat Nov 16 16:47:15.017329 2013] [access_compat:error] [pid 3540:tid 1616] [client 127.0.0.1:53565] client denied by server configuration: E:/phpcms/
+[Sat Nov 16 16:47:15.083333 2013] [access_compat:error] [pid 3540:tid 1616] [client 127.0.0.1:53565] client denied by server configuration: E:/phpcms/favicon.ico
+[Sat Nov 16 16:47:15.684367 2013] [access_compat:error] [pid 3540:tid 1616] [client 127.0.0.1:53565] client denied by server configuration: E:/phpcms/
+[Sat Nov 16 16:47:15.737370 2013] [access_compat:error] [pid 3540:tid 1616] [client 127.0.0.1:53565] client denied by server configuration: E:/phpcms/favicon.ico
+[Sat Nov 16 17:09:06.862210 2013] [core:error] [pid 4528:tid 1616] [client 127.0.0.1:53885] File does not exist: E:/dpcms
+[Sat Nov 16 17:31:56.457331 2013] [:warn] [pid 344:tid 1616] (OS 109)管道已结束。  : [client 127.0.0.1:54337] mod_fcgid: get overlap result error
+[Sat Nov 16 17:31:56.457331 2013] [core:error] [pid 344:tid 1616] [client 127.0.0.1:54337] End of script output before headers: index.php
+[Sat Nov 16 17:35:25.072425 2013] [core:error] [pid 3236:tid 1632] [client 127.0.0.1:54371] File does not exist: E:/phpcms/reset.css, referer: http://www.phpcms.net/
+[Sat Nov 16 17:35:25.080425 2013] [core:error] [pid 3236:tid 1632] [client 127.0.0.1:54371] File does not exist: E:/phpcms/default_blue.css, referer: http://www.phpcms.net/
+[Sat Nov 16 17:35:25.083426 2013] [core:error] [pid 3236:tid 1632] [client 127.0.0.1:54371] File does not exist: E:/phpcms/jquery.min.js, referer: http://www.phpcms.net/
+[Sat Nov 16 17:35:25.087426 2013] [core:error] [pid 3236:tid 1632] [client 127.0.0.1:54371] File does not exist: E:/phpcms/jquery.sgallery.js, referer: http://www.phpcms.net/
+[Sat Nov 16 17:35:25.100427 2013] [core:error] [pid 3236:tid 1632] [client 127.0.0.1:54371] File does not exist: E:/phpcms/search_common.js, referer: http://www.phpcms.net/
+[Sat Nov 16 17:35:25.128428 2013] [core:error] [pid 3236:tid 1608] [client 127.0.0.1:54373] File does not exist: E:/phpcms/v9, referer: http://www.phpcms.net/
+[Sat Nov 16 17:35:26.185489 2013] [core:error] [pid 3236:tid 1632] [client 127.0.0.1:54371] File does not exist: E:/phpcms/up_btn.gif, referer: http://www.phpcms.net/index.php?m=member&c=index&a=mini&forward=http%3A%2F%2Fwww.phpcms.net%2F&siteid=1
+[Sat Nov 16 17:38:25.493645 2013] [access_compat:error] [pid 7132:tid 1616] [client 127.0.0.1:54383] client denied by server configuration: E:/phpcms/
+[Sat Nov 16 17:42:03.381924 2013] [access_compat:error] [pid 5832:tid 1616] [client 127.0.0.1:54452] client denied by server configuration: E:/phpcms/
+[Sat Nov 16 17:42:03.921954 2013] [access_compat:error] [pid 5832:tid 1616] [client 127.0.0.1:54452] client denied by server configuration: E:/phpcms/
+[Sun Nov 17 19:38:33 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/reset.css, referer: http://www.phpcms.net/
+[Sun Nov 17 19:38:33 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/default_blue.css, referer: http://www.phpcms.net/
+[Sun Nov 17 19:38:33 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/jquery.min.js, referer: http://www.phpcms.net/
+[Sun Nov 17 19:38:33 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/jquery.sgallery.js, referer: http://www.phpcms.net/
+[Sun Nov 17 19:38:33 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/search_common.js, referer: http://www.phpcms.net/
+[Sun Nov 17 19:38:33 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/v9, referer: http://www.phpcms.net/
+[Sun Nov 17 19:38:33 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/up_btn.gif, referer: http://www.phpcms.net/index.php?m=member&c=index&a=mini&forward=http%3A%2F%2Fwww.phpcms.net%2F&siteid=1
+[Sun Nov 17 19:42:45 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/images, referer: http://www.phpcms.net/install/install.php?
+[Sun Nov 17 19:42:45 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/images, referer: http://www.phpcms.net/install/install.php?
+[Sun Nov 17 19:42:45 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/images, referer: http://www.phpcms.net/install/install.php?
+[Sun Nov 17 19:42:45 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/images, referer: http://www.phpcms.net/install/install.php?
+[Sun Nov 17 19:42:45 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/images, referer: http://www.phpcms.net/install/install.php?
+[Sun Nov 17 19:42:45 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/images, referer: http://www.phpcms.net/install/install.php?
+[Sun Nov 17 19:42:45 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/images, referer: http://www.phpcms.net/install/install.php?
+[Sun Nov 17 19:42:45 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/images, referer: http://www.phpcms.net/install/install.php?
+[Sun Nov 17 19:42:45 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/images, referer: http://www.phpcms.net/install/install.php?
+[Sun Nov 17 19:43:42 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/caches/poster_js/10.js, referer: http://www.phpcms.net/
+[Sun Nov 17 19:44:34 2013] [error] [client 127.0.0.1] File does not exist: E:/phpcms/caches/poster_js/10.js, referer: http://www.phpcms.net/
