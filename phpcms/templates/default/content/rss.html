@@ -15,8 +15,8 @@
 					<li><a href="?m=content&c=rss&catid={$v[catid]}&siteid={SITEID}">{$v[catname]}</a> <a href="{APP_PATH}index.php?m=content&c=rss&rssid={$v[catid]}"><img src="{IMG_PATH}icon/rss.gif"></a></li>
 					{/loop}
 				</ul>
-			{/loop}	
-			{/pc}	
+			{/loop}
+			{/pc}
 
 			</div>
 		</div>
@@ -33,11 +33,11 @@
 				{loop $info $v}
 					<li>·<a href="{if strpos($v[url],'http')===false}{$siteurl}{/if}{$v[url]}">{str_cut($v[title],'40')}</a></li>
 				{/loop}
-			{/pc}	
+			{/pc}
 			</ul>
 		</div>
 		{if $i%2==0}<div class="bk10"></div>{/if}
-	{/loop}					
+	{/loop}
 	</div>
 	<div class="clear"></div>
 </div>
@@ -54,7 +54,7 @@ memu.toggle(
 	$(this).removeClass('on');
     $(this).next().hide();
   }
-);	
+);
 });
 var ppwin='<dl><dt>订阅到</dt><dd><a href="http://reader.youdao.com/b.do?keyfrom=163&url={feedurl}" title="有道" target="_blank"><img src="http://img1.cache.netease.com/cnews/css09/rss100121/icon_subshot02_youdao.gif" width="50" height="14" alt="有道" /></a></dd><dd><a href="http://fusion.google.com/add?feedurl={feedurl}" title="google" target="_blank"><img src="http://img1.cache.netease.com/cnews/css09/rss100121/icon_subshot02_google.gif" width="50" height="14" alt="google" /></a></dd><dd><a href="http://add.my.yahoo.com/rss?url={feedurl}" title="yahoo" target="_blank"><img src="http://img1.cache.netease.com/cnews/css09/rss100121/icon_subshot02_yahoo.gif" width="50" height="14" alt="yahoo" /></a></dd><dd><a href="http://www.xianguo.com/subscribe.php?url={feedurl}" title="鲜果" target="_blank"><img src="http://img1.cache.netease.com/cnews/css09/rss100121/icon_subshot02_xianguo.gif" width="50" height="14" alt="鲜果" /></a></dd><dd><a href="http://www.zhuaxia.com/add_channel.php?url={feedurl}" title="抓虾" target="_blank"><img src="http://img1.cache.netease.com/cnews/css09/rss100121/icon_subshot02_zhuaxia.gif" width="50" height="14" alt="抓虾" /></a></dd><dd><a href="http://mail.qq.com/cgi-bin/feed?u={feedurl}" title="qq" target="_blank"><img src="http://img1.cache.netease.com/cnews/css09/rss100121/icon_subshot02_qq.gif" width="50" height="14" alt="qq" /></a></dd><dd><a href="http://my.msn.com/addtomymsn.armx?id=rss&ut={feedurl}" title="msn" target="_blank"><img src="http://img1.cache.netease.com/cnews/css09/rss100121/msn.jpg" width="44" height="14" alt="msn" /></a></dd></dl>';
 function RssTab(id){

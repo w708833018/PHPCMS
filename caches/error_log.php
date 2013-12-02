@@ -1,0 +1,2 @@
+<?php exit;?>11-18 21:58:34 | 2 | Missing argument 2 for category::delete_child(), called in E:\phpcms\phpcms\modules\admin\category.php on line 345 and defined | phpcms\modules\admin\category.php | 340
+<?php exit;?>11-18 21:59:45 | 2 | Missing argument 2 for category::delete_child(), called in E:\phpcms\phpcms\modules\admin\category.php on line 345 and defined | phpcms\modules\admin\category.php | 340
